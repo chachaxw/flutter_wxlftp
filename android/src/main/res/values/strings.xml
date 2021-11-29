@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">带货相册</string>
+    <string name="app_baidu">https://www.itsnake.com</string>
+    <string name="accessibility_tip">带货相册</string>
+</resources>
